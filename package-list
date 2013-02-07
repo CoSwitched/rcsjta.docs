@@ -9,4 +9,5 @@ org.gsma.rcs.messaging
 org.gsma.rcs.presence
 org.gsma.rcs.provider.settings
 org.gsma.rcs.richcall
+org.gsma.rcs.session
 org.gsma.rcs.terms
