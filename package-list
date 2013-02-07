@@ -7,7 +7,7 @@ org.gsma.rcs.media
 org.gsma.rcs.media.video
 org.gsma.rcs.messaging
 org.gsma.rcs.presence
-org.gsma.rcs.provider.settings
 org.gsma.rcs.richcall
 org.gsma.rcs.session
+org.gsma.rcs.settings
 org.gsma.rcs.terms
