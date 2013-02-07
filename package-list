@@ -6,7 +6,6 @@ org.gsma.rcs.core.ims.service.im.chat
 org.gsma.rcs.core.ims.service.im.chat.event
 org.gsma.rcs.core.ims.service.im.chat.imdn
 org.gsma.rcs.core.ims.service.im.filetransfer
-org.gsma.rcs.core.ims.service.richcall
 org.gsma.rcs.core.ims.service.sip
 org.gsma.rcs.eventslog
 org.gsma.rcs.gsma
